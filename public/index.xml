@@ -9,15 +9,13 @@
     <lastBuildDate>Fri, 15 Nov 2024 17:46:54 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Live Asset Mapping</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 15 Nov 2024 17:46:54 +1100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;title-of-this-page&#34;&gt;TItle of this page&lt;/h2&gt;
-&lt;p&gt;Some text&lt;/p&gt;
-&lt;h2 id=&#34;override-theme-template&#34;&gt;Override theme template&lt;/h2&gt;
-&lt;p&gt;By Hugo&amp;rsquo;s Lookup Order, you can override any part of a theme that you want. The following is a quick example.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s say you wish the &lt;code&gt;list&lt;/code&gt; was different. All you have to do is copy the &lt;code&gt;list&lt;/code&gt; template:&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;a-real-time-mapping-product-to-locate-assets-and-improve-alert-response-times&#34;&gt;A real time mapping product to locate assets and improve alert response times&lt;/h2&gt;
+&lt;p&gt;Luckily we know a thing or two about tracking objects in real time at BlueCats so we worked with an alpha client to design and develop a live mapping product which can be deployed across multiple industries in the future.&lt;/p&gt;
+&lt;p&gt;The client’s main business is in correctional facilities. They provide equipment to the officers and staff who works inside these facilities country-wide, but saw the opportunity to improve safety and response times by leveraging BlueCats’ expertise in the real time location space.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
