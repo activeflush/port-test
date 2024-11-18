@@ -1,23 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ⭐️ My New Hugo Site</title>
+    <title>Posts on ⭐️ Michael Wu Portfolio</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on ⭐️ My New Hugo Site</description>
+    <description>Recent content in Posts on ⭐️ Michael Wu Portfolio</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2024 17:46:54 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 16:05:52 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Live Asset Mapping</title>
+      <link>http://localhost:1313/posts/live-asset/</link>
       <pubDate>Fri, 15 Nov 2024 17:46:54 +1100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;title-of-this-page&#34;&gt;TItle of this page&lt;/h2&gt;
-&lt;p&gt;Some text&lt;/p&gt;
-&lt;h2 id=&#34;override-theme-template&#34;&gt;Override theme template&lt;/h2&gt;
-&lt;p&gt;By Hugo&amp;rsquo;s Lookup Order, you can override any part of a theme that you want. The following is a quick example.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s say you wish the &lt;code&gt;list&lt;/code&gt; was different. All you have to do is copy the &lt;code&gt;list&lt;/code&gt; template:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/live-asset/</guid>
+      <description>&lt;h2 id=&#34;a-real-time-mapping-product-to-locate-assets-and-improve-alert-response-times&#34;&gt;A real time mapping product to locate assets and improve alert response times&lt;/h2&gt;
+&lt;p&gt;Luckily we know a thing or two about tracking objects in real time at BlueCats so we worked with an alpha client to design and develop a live mapping product which can be deployed across multiple industries in the future.&lt;/p&gt;
+&lt;p&gt;The client’s main business is in correctional facilities. They provide equipment to the officers and staff who works inside these facilities country-wide, but saw the opportunity to improve safety and response times by leveraging BlueCats’ expertise in the real time location space.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sendle</title>
+      <link>http://localhost:1313/posts/sendle/</link>
+      <pubDate>Mon, 18 Nov 2024 16:05:52 +1100</pubDate>
+      <guid>http://localhost:1313/posts/sendle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lyka</title>
+      <link>http://localhost:1313/posts/lyka/</link>
+      <pubDate>Mon, 18 Nov 2024 16:05:44 +1100</pubDate>
+      <guid>http://localhost:1313/posts/lyka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bc Loop</title>
+      <link>http://localhost:1313/posts/bc-loop/</link>
+      <pubDate>Mon, 18 Nov 2024 16:05:36 +1100</pubDate>
+      <guid>http://localhost:1313/posts/bc-loop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sui</title>
+      <link>http://localhost:1313/posts/sui/</link>
+      <pubDate>Mon, 18 Nov 2024 16:05:04 +1100</pubDate>
+      <guid>http://localhost:1313/posts/sui/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

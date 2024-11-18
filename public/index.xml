@@ -1,21 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>⭐️ My New Hugo Site</title>
+    <title>⭐️ Michael Wu Portfolio</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on ⭐️ My New Hugo Site</description>
+    <description>Recent content on ⭐️ Michael Wu Portfolio</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2024 17:46:54 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 16:05:52 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Live Asset Mapping</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/live-asset/</link>
       <pubDate>Fri, 15 Nov 2024 17:46:54 +1100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/live-asset/</guid>
       <description>&lt;h2 id=&#34;a-real-time-mapping-product-to-locate-assets-and-improve-alert-response-times&#34;&gt;A real time mapping product to locate assets and improve alert response times&lt;/h2&gt;
 &lt;p&gt;Luckily we know a thing or two about tracking objects in real time at BlueCats so we worked with an alpha client to design and develop a live mapping product which can be deployed across multiple industries in the future.&lt;/p&gt;
 &lt;p&gt;The client’s main business is in correctional facilities. They provide equipment to the officers and staff who works inside these facilities country-wide, but saw the opportunity to improve safety and response times by leveraging BlueCats’ expertise in the real time location space.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sendle</title>
+      <link>http://localhost:1313/posts/sendle/</link>
+      <pubDate>Mon, 18 Nov 2024 16:05:52 +1100</pubDate>
+      <guid>http://localhost:1313/posts/sendle/</guid>
+      <description>&lt;h1 id=&#34;improving-the-parcel-delivery-experience&#34;&gt;Improving the parcel delivery experience&lt;/h1&gt;
+&lt;p&gt;Sendle is a digital courier company that aggregates services of other courier companies and drives to offer an alternative network against the likes of &lt;em&gt;Australia Post&lt;/em&gt; (AU), &lt;em&gt;USPS&lt;/em&gt; (USA), and &lt;em&gt;Canada Post&lt;/em&gt; (CA).&lt;/p&gt;
+&lt;h2 id=&#34;customer-issue&#34;&gt;Customer issue&lt;/h2&gt;
+&lt;p&gt;Senders and receivers unsatisfied with our last-mile delivery experience, spending days or weeks back and forth in contact with support&lt;/p&gt;
+&lt;h2 id=&#34;business-goals&#34;&gt;Business goals&lt;/h2&gt;
+&lt;p&gt;This time with support causes issues in our customers satisfaction, loyalty and retention. Causing bottlenecks during peak periods.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lyka</title>
+      <link>http://localhost:1313/posts/lyka/</link>
+      <pubDate>Mon, 18 Nov 2024 16:05:44 +1100</pubDate>
+      <guid>http://localhost:1313/posts/lyka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bc Loop</title>
+      <link>http://localhost:1313/posts/bc-loop/</link>
+      <pubDate>Mon, 18 Nov 2024 16:05:36 +1100</pubDate>
+      <guid>http://localhost:1313/posts/bc-loop/</guid>
+      <description>&lt;h1 id=&#34;scanning--asset-association-app&#34;&gt;Scanning &amp;amp; Asset Association App&lt;/h1&gt;
+&lt;p&gt;A companion app for an industrial track &amp;amp; trace location platform&lt;/p&gt;
+&lt;h2 id=&#34;areas&#34;&gt;Areas:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Research &amp;amp; developing user personas&lt;/li&gt;
+&lt;li&gt;Taskflow creation (whimsical)&lt;/li&gt;
+&lt;li&gt;Wireframing &amp;amp; UI (whimsical &amp;amp; XD)&lt;/li&gt;
+&lt;li&gt;Prototyping &amp;amp; user testing (XD)&lt;/li&gt;
+&lt;li&gt;Developer hand-off (XD &amp;amp; Zeplin)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;As BlueCats expands it’s RTLS (real time location service) product offering to other industries the company focused its effort into creating a white-label app that help operators connect assets in the real world to the BlueCats Loop Platform.
+This business problem stems from the users’ need to quickly assign and attach a beacon/tag to the asset they wish to track. This app will be provided to existing customers who is using an interim solution and new customers as well. In order to reduce the dev time this app needs to have flexibility in mind – being able to easily adapt to different scanning workflows with minimal design/dev effort.
+Discovery&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SUI Design System</title>
+      <link>http://localhost:1313/posts/sui/</link>
+      <pubDate>Mon, 18 Nov 2024 16:05:04 +1100</pubDate>
+      <guid>http://localhost:1313/posts/sui/</guid>
+      <description>&lt;h2 id=&#34;improving-the-usability-of-the-design-system-shared-across-siteminder-products&#34;&gt;Improving the usability of the design system shared across SiteMinder products&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;roles&#34;&gt;Roles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Systems Designer&lt;/li&gt;
+&lt;li&gt;Product management (UI/UX, Figma migration)&lt;/li&gt;
+&lt;li&gt;Developer handoff (HTML/CSS)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h3&gt;
+&lt;p&gt;Coming into an established team and existing design system at SiteMinder with a fresh set of eyes, one of my tasks was to identify areas of the design workflow that could be improved. The existing system was created in Sketch and included other 3rd party tools in order to maintain the design, development, and review process. Sketch and the extra tools were leading to inefficiencies in the speed and consistency between visual design and development. My task was to identify and remove these roadblocks whilst continuing to maintain an ever growing design system.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
