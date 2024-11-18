@@ -3,6 +3,8 @@ date: '2024-11-15T17:46:54+11:00'
 draft: false
 title: 'Live Asset Mapping'
 weight: 1
+ShowReadingTime: true
+ShowPostNavLinks: true
 cover:
   image: "/images/BC-brand-cover.jpg"
   # can also paste direct link from external site
@@ -34,6 +36,8 @@ Up until now most facilities relied on standard radio communication or emergency
  
 After an initial brief was drawn up between the client and the product manager we looked into and took inspiration from mapping tools across the web as well as tools that emergency dispatchers use – as the client indicated that our users will either come from that background or their current systems closely resembles those workflows. However this also brought new and unforeseen challenges – namely the quite complex applications that were action-based, not the scan-and-select interaction that our product is meant to provide.
 
+![alt text](/images/sorting.png)
+
 ---
 ### Context & Needs
 
@@ -53,3 +57,27 @@ visitor perspective, that our tool attempts to solve:
 	- I am having a problem and need assistance
 
 From this we then mapped out to various task flows:
+
+---
+### Wireframes & Prototypes
+
+The workflows were then translated into various wireframes.
+ 
+One of the important UX problems we came across here was how the alert system would work if the officer triggering the alert is not in the current map displayed on screen, whilst keeping the workflow of addressing alerts consistent. We did not want the operator to waste time trying to figure out where the alert came from or resort to the search box in this situation.
+ 
+The solution we came up with was pretty straight forward as the UI was split into 3 panels; Location, People, and Map:
+- **When an alert is triggered** – a special alert card will be shown on the Location Panel as it is the one panel that is consistent during navigation.
+- **If the alert is in the current view** – another alert card will be shown on the People Panel displaying the officer’s details. Operators can address the issue on the spot.
+- **If the alert is not in the current view** – the operator can navigate to the officer directly by clicking the alert card on the Location Panel. The new area loads, and with it the officer details on the People panel will also be displayed
+By implementing this workflow we were able to transport the operator to the scene of the issue with one click.
+
+IMG BE HERE
+
+After presentations to the client and both internal usability testing as well as client managed external user testing we moved into higher fidelity mockups and converting it to HTML/CSS dummies for development.
+
+---
+### Results & Ongoing improvements
+
+We have since deployed the system into multiple client facilities and are continuously receiving feedback on the Live Mapping UI. The impacts have been extremely positive from the software side, with minimal operator training required and a definite improvement in their response time.
+ 
+One has to bear in mind that the UI was not created specifically to solve the problems of this one client – it is part of a complete solution BlueCats provide. As we deploy this UI to clients in other industries we, the product team, are continually working to improve the overall system, implementing features that would benefit a wide range of customers.
